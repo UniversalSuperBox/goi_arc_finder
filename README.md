@@ -44,4 +44,4 @@ Please note that slot 0 of the array should always be empty.
 
 * Same as adding a new weapon, but with a deeper array required. Ships are located in the getShip function and the format is documented there.
 
-You can measure for 
+You can measure for gun positions using the image in this repository. Remember to convert to meters by dividing your pixel measurements by 20.
