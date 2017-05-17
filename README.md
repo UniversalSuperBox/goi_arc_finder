@@ -4,6 +4,7 @@ Calculates intersecting gun arcs on ships in Guns of Icarus Online. This allows 
 
 ## To run this code:
 
+1. Download this repository
 1. Open index.html in your browser
 2. That is it.
 
