@@ -8,6 +8,24 @@ Calculates intersecting gun arcs on ships in Guns of Icarus Online. This allows 
 1. Open index.html in your browser
 2. That is it.
 
+## Selectable ships:
+
+1. Squid
+
+## Selectable light guns:
+
+1. Artemis Light Rocket Launcher
+2. Barking Dog Light Carronade
+3. Banshee Light Rocket Carousel
+4. Dragon Tongue Light Flamethrower
+5. Echidna Light Flak Cannon
+6. Hades Light Cannon
+7. Javelin Light Harpoon Gun
+8. Mercury Field Guns
+9. Phobos Mine Launcher
+10. Scylla Double-Barreled Mortar
+11. Whirlwind Light Gatling Gun
+
 ## Currently implemented:
 
 ### Light Weapons
